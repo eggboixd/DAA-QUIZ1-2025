@@ -1,0 +1,1 @@
+{"name":"Local: prob1Again","url":"d:\\ITS\\Study\\Semester 4\\Data Analysis Design\\quiz1\\prob1Again.cpp","tests":[{"id":1742971821613,"input":"3\n1\n3\n5","output":"0 1\n1 2\n1 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ITS\\Study\\Semester 4\\Data Analysis Design\\quiz1\\prob1Again.cpp","group":"local","local":true}
